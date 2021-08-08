@@ -1,4 +1,4 @@
-# Design_and_Development_of_an_IoT_Based_Medical_Device_for_Management_of_Dengue_Patients-
+# Design and Development of an IoT Based Medical Device for Management of Dengue Patients by Monitoring Fluid Output
 
 Abstract- According to Sri Lankan health sector sources, there are about 50000 to 100000 dengue virus infections per year. Some hospitals were unable to accommodate the huge volume of patients requiring treatment during the 2017 dengue outbreak in Sri Lanka. Dengue is treated by balancing fluid intake and output. This is done by measuring the fluid output, mainly by measuring the hourly urine output. Currently, this hourly measurement of urine is done manually which demands a considerable amount of their precious time, often overloading them and leading to inaccurate measurements. 
 
