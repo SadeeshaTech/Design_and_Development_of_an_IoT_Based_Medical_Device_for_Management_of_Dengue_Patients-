@@ -14,6 +14,6 @@ This is a medical device project ICU environment. This device can monitor fluid 
 Electronic circuit design | Signal processing | Arduino embedded | C++ | Web development | Thingspeak | Wireless Communication | ESP8266 | Parallel data processing
 
 ######################################################################################################
-Lot of contenet of this project is private. 
+            Lot of contenet of this project is private. 
 
 ######################################################################################################
